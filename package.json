@@ -15,7 +15,7 @@
     "punycode": "^2.1.1",
     "schemes": "^1.1.1",
     "smtp-address-parser": "^1.0.3",
-    "uri-js": "^4.2.2"
+    "uri-js": "git+https://github.com/fexpal/uri-js.git#ws-uri-parsing"
   },
   "peerDependencies": {
     "ajv": "*"
